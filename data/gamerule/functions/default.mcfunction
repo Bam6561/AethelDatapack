@@ -1,5 +1,5 @@
 # @author Danny Nguyen
-# @version 1.0.0
+# @version 1.0.1
 # @since 1.0.0
 
 gamerule commandModificationBlockLimit 32768
@@ -8,6 +8,7 @@ gamerule maxEntityCramming 24
 gamerule playersSleepingPercentage 100
 gamerule randomTickSpeed 3
 gamerule snowAccumulationHeight 1
+gamerule spawnChunkRadius 0
 gamerule spawnRadius 10
 
 gamerule announceAdvancements true
