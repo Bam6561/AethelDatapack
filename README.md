@@ -30,9 +30,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-### Inactive.
-
 Minecraft data pack written for Aethel SMP.
 
 See the [Wiki](https://github.com/Bam6561/AethelDataPack/wiki/Home) for documentation on its namespaces and guidelines on how to add content in a consistent format.
